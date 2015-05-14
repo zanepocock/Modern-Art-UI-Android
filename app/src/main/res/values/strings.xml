@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Modern Art UI</string>
+    <string name="action_more_information">More Information</string>
+
+    <string name="dialog_text">Inspired by the works of modern art master Piet Mondrian, whose work can be found at the Museum of Modern Art in New York.\n\nClick below to learn more!</string>
+    <string name="dialog_not_now">Not Now</string>
+    <string name="dialog_visit">Visit MOMA</string>
+
+    <string name="open_with">Open with</string>
+
+    <color name="white">#ffffff</color>
+    <color name="lightgrey">#efefef</color>
+    <color name="black">#000000</color>
+    <color name="lightblue">#064EAA</color>
+    <color name="yellow">#E6FE05</color>
+    <color name="darkblue">#064597</color>
+    <color name="darkgrey">#2F3236</color>
+    <color name="red">#FF1705</color>
+</resources>
